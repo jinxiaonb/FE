@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.dev.js"
   },
   "author": "jinxiao",
   "license": "MIT",
@@ -12,6 +13,7 @@
   "devDependencies": {
     "css-loader": "^0.28.9",
     "html-webpack-plugin": "^2.30.1",
+    "lodash": "^4.17.4",
     "raw-loader": "^0.5.1",
     "style-loader": "^0.20.1",
     "ts-loader": "^3.3.1",
