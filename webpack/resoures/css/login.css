@@ -1,0 +1,32 @@
+body{
+    width: 100%;
+    background: url(../images/login/bg.png) no-repeat top center;
+}
+.container{
+    width: 1180px;
+    margin: 0 auto;
+}
+.header{
+    height: 160px;
+}
+.header img{
+    width: 320px;
+    margin-top: 50px;
+}
+.content{
+    margin-top: 50px;
+}
+.s-login{
+    width: 500px;
+}
+.s-login{
+
+}
+.title{
+    font-size: 32px;
+    height: 100px;
+    line-height: 100px;
+    background-color: #427EA1;
+    color: #fff;
+    opacity: 0.8;
+}
